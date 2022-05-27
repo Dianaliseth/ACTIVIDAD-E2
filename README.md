@@ -6,4 +6,4 @@
 
 autora: Diana Liseth Campos Castillos 
 
-correo: Diana.campos.castillo@utelvt.edu.ec
+correo: diana.campos.castillo@utelvt.edu.ec
