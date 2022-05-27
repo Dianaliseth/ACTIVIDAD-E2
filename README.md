@@ -1,9 +1,10 @@
 # ACTIVIDAD-E2
 
-#programas en c++ de Campos Diana
+#Programas en c++ de Campos Diana
 
-#informacion del autor
+#Informacion del autor
 
-autora: Diana Liseth Campos Castillos 
+Autora: Diana Liseth Campos Castillos 
 
-correo: diana.campos.castillo@utelvt.edu.ec
+Correo: diana.campos.castillo@utelvt.edu.ec
+Link de la Actividad-B1: https://youtu.be/Jw-Ejhy9NLM
